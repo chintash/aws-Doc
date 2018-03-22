@@ -25,7 +25,7 @@ Various configurations of CPU, memory, storage, and networking capacity for your
 Secure login information for your instances using key pairs (AWS stores the public key, and you store the private key in a secure place)
 
 ## Amazon EBS
-Storage volumes for temporary data that’s deleted when you stop or terminate your instance, known as Instance store volumes
+Persistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes
 
 ## Instance store volumes
 Persistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes
